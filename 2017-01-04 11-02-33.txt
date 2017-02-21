@@ -1,0 +1,9 @@
+total credit win = 			$0
+numer of Lost =				0
+3 reel matchings =			0
+2 reel matchings =			1
+Number of Spins (play times)=  		1
+Credit wining average per spin =	0%
+matching reel average per spin =	100%
+Total win =				1
+Total credit lost= 			$0
