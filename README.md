@@ -11,3 +11,10 @@ This project is GUI representation of slot-machine using java.users are allowed 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/23357240/24072783/59d29da2-0c12-11e7-825a-f5ef65351b30.png" width="350"/>
 </p>
+<br>
+<br>
+<br>
+<h4 align="center">Here is a screenshot of the game while spinning</h4>
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/23357240/24072804/a5198c9e-0c12-11e7-808f-2c095d401e17.png" width="550"/>
+</p>
