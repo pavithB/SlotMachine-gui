@@ -16,5 +16,5 @@ This project is GUI representation of slot-machine using java.users are allowed 
 <br>
 <h4 align="center">Here is a screenshot of the game while spinning</h4>
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/23357240/24072804/a5198c9e-0c12-11e7-808f-2c095d401e17.png" width="550"/>
+  <img src="https://cloud.githubusercontent.com/assets/23357240/24072804/a5198c9e-0c12-11e7-808f-2c095d401e17.png" width="450"/>
 </p>
