@@ -23,5 +23,5 @@ This project is GUI representation of slot-machine using java.users are allowed 
 <br>
 <h4 align="center">Here is a screenshot of the game (all match - win )</h4>
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/23357240/24072820/e4ac08e6-0c12-11e7-82b2-bd83b3a1682b.png width="350"/>
+  <img src="https://cloud.githubusercontent.com/assets/23357240/24072820/e4ac08e6-0c12-11e7-82b2-bd83b3a1682b.png" width="350"/>
 </p>
